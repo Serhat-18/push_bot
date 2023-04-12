@@ -26,3 +26,6 @@ a.out silerken silinip silinmeyeceğini size sorar
 en son işlemler bittikten sonra siz onaylarsanız kendisini siler 
 
 Şimdiden iyi kullanımlar & kodlamalar 
+
+
+Yazılıdğı dil: Shell 
