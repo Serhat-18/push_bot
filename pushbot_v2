@@ -28,7 +28,7 @@ find . -name "*.c" -type f -exec sh -c 'grep -q "#include" {} && echo -e "\033[1
 
 find . -name "*.c" -type f -exec sh -c 'grep -q "int main" {} && echo -e "\033[1;31mMain Dosyası Var: {}\033[0m"' \; && \
 
-echo -e "\033[1;32mPushBot V 2.0!\nDeveloped By $erhat/18 & Norkum\033[0m" && \
+echo -e "\033[1;32mPushBot V 2.0!\nDeveloped By Serhatsal & Norkum\033[0m" && \
 
 find . -name "pushbot*" -type f -print -exec rm -ri {} \;
 
